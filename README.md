@@ -11,7 +11,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Dual Degree Student at **IIIT Una** (B.Tech. in ECE, 9.61 CGPA) & **IIT Madras** (B.Sc. in Data Science, 9.03 CGPA)
+- 🎓 Student at **IIIT Una** (B.Tech. in ECE, 9.61 CGPA)
 - 🏅 Consistently ranked among the top in national engineering & defense exams (AIR 4 & 16, NDA & NA UPSC)
 - 💡 Passionate about **AI/ML**, **Edge Computing**, and building impactful tech solutions
 - 🥇 Multiple coding competition wins & hackathon accolades
