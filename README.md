@@ -12,7 +12,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Student at **IIIT Una** (B.Tech. in ECE, 9.61 CGPA)
-- 💡 Passionate about **AI/ML**, **Edge Computing**, and building impactful tech solutions
+- 💡 Passionate about **AI/ML**, **Deep Learning**, and building impactful tech solutions
 
 ---
 
