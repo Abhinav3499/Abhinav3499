@@ -57,7 +57,7 @@
 - **AIR 4** (NDA & NA II 2022, UPSC) | **AIR 16** (NDA & NA I 2023, UPSC)  
 - 1st Place, Coderation, Meraki ‘25 | 2nd Place, Run Code Run | 3rd Place, Hired or Fired (IIIT Una Tech Fest)  
 - **Ranked 2nd** in ECE Dept. at IIIT Una (Batch of 2027)
-- **LeetCode Knight:** 1909 | **Codeforces Specialist:** 1452 | **CodeChef:** 1748
+- **LeetCode Knight:**| **Codeforces Specialist:** | **CodeChef:** 3-Star
 
 ---
 
