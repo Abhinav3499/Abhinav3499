@@ -1,72 +1,99 @@
-# Hi, I'm Abhinav Arya 👋
+# Abhinav Arya
 
-**Electronics & Communication | Data Science | ML Engineer | Full-Stack Developer**
+Electronics and Communication Engineering Student  
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinav3499&color=blue)  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Abhinav3499) | 3499arya@gmail.com
-
----
-
-## 👨‍🎓 About Me
-
-- 🎓 Student at **IIIT Una** (B.Tech. in ECE, 9.61 CGPA)
-- 💡 Passionate about **AI/ML**, **Deep Learning**, and building impactful tech solutions
+Indian Institute of Information Technology, Una  
+CGPA: 9.52  
+ 
+Email: 3499arya@gmail.com  
 
 ---
 
-## 💼 Experience
+## About Me
 
-**Research Intern – IIT Roorkee** *(May–July 2025)*  
+I am a B.Tech student in Electronics and Communication Engineering at IIIT Una with strong interests in Artificial Intelligence, Machine Learning, and scalable software systems.
+
+---
+
+## Experience
+
+### Research Intern  
+**Indian Institute of Technology, Roorkee**  
+May 2025 – July 2025  
+
 - Developed a real-time anomaly detection system for DC-DC boost converter signals using STM32 microcontrollers  
-- Engineered a data pipeline and trained a ResNet2D model (99% inference accuracy)  
-- Deployed the model on Raspberry Pi for efficient edge signal classification  
-- [Project GitHub](#) <!-- Replace with actual link -->
+- Built a data pipeline for preprocessing 12-bit ADC signals  
+- Trained a ResNet2D model achieving 99% inference accuracy  
+- Deployed the model on Raspberry Pi with sub-100ms response time for edge classification  
+
+### Amazon ML Summer School 2025  
+**Virtual Cohort Program**
+
+- Studied advanced Machine Learning, Deep Learning, NLP, and Transformer architectures under Amazon ML scientists  
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 🌓 [Lunar Crater Detection](#) <!-- Replace with actual link -->
-*Python, PyTorch, YOLOv9, OpenCV, Flask*  
-- Built a YOLOv9 model for high-accuracy crater detection on planetary images (ISRO OHRC dataset)  
-- Deployed a Flask web app for real-time image annotation
+### SolvR – Question Tracker  
+*Vue 3, Vite, Pinia, JavaScript*
 
-### 🅿️ [Full-Stack Parking Management System](#) <!-- Replace with actual link -->
-*Python, Flask, SQL, Bootstrap*  
-- Created a complete web system with programmatic DB schema and dual-role access (admin/user)  
-- Real-time dashboards for parking analytics
+A web application to organize and track DSA and competitive programming progress.
 
-### 🛡️ [System Threat Detection](#) <!-- Replace with actual link -->
-*Python, Pandas, Scikit-learn, XGBoost*  
-- Extensive EDA, feature engineering, model ensembling  
-- Achieved top-tier ranking in a Kaggle competition
+- Topic and difficulty-based tracking  
+- LocalStorage-based persistence  
+- Modular component architecture with Pinia state management  
 
 ---
 
-## 🛠️ Skills
+### Multi-Class Emotion Detector  
+*Python, PyTorch, Scikit-learn, Transformers (RoBERTa)*
 
-- **Languages/Frameworks:** C, C++, Python, MATLAB, SQL (MySQL, PostgreSQL), Flask, Jinja2, HTML/CSS, Bootstrap, Git, Linux
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLO, Arduino
-
----
-
-## 🏆 Achievements
-
-- **AIR 4** (NDA & NA II 2022, UPSC) | **AIR 16** (NDA & NA I 2023, UPSC)  
-- 1st Place, Coderation, Meraki ‘25 | 2nd Place, Run Code Run | 3rd Place, Hired or Fired (IIIT Una Tech Fest)  
-- **Ranked 2nd** in ECE Dept. at IIIT Una (Batch of 2027)
-- **LeetCode Knight:**| **Codeforces Specialist:** | **CodeChef:** 3-Star
+- Built a multi-label emotion classification system  
+- Benchmarked TF-IDF + Logistic Regression, LSTM, and Transformer models  
+- Achieved macro F1-score of 0.87 using fine-tuned RoBERTa  
 
 ---
 
-## 📫 Connect With Me
+### ParkIT – Parking Management Platform  
+*Python, Flask, SQLite, JavaScript*
 
-- 📍 Una, Himachal Pradesh
-- ✉️ 3499arya@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Abhinav3499)
+- Implemented JWT authentication and Google OAuth  
+- Designed role-based access control (admin/user)  
+- Built GPS-based nearby parking detection  
+- Created analytics dashboard for management  
 
 ---
 
-> “Turning complex problems into elegant solutions, one project at a time.”
+### System Threat Detection  
+*Python, Pandas, Scikit-learn, XGBoost*
+
+- Processed 100,000+ records in a Kaggle competition  
+- Applied RFE, PCA, and ensemble models  
+- Ranked in Top 1%  
+
+---
+
+## Technical Skills
+
+**Programming:** Python, JavaScript, C++, MATLAB, SQL  
+**Frameworks & Libraries:** Flask, Vue.js, Express.js, PyTorch, Scikit-learn  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Linux  
+**Core Areas:** Data Structures, Algorithms, Machine Learning, Deep Learning, NLP  
+
+---
+
+## Achievements
+
+- Silver Medalist, Department of ECE, IIIT Una (Batch of 2027)  
+- AIR 4 (NDA & NA II 2022)  
+- AIR 16 (NDA & NA I 2023)  
+- Meta Hacker Cup Round 2 – Rank 1343  
+- LeetCode Guardian (Top 1%)  
+- Codeforces Specialist  
+- CodeChef 3-Star  
+
+---
+
+Turning complex problems into elegant, deployable systems.
