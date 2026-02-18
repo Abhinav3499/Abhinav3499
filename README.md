@@ -93,7 +93,3 @@ A web application to organize and track DSA and competitive programming progress
 - LeetCode Guardian (Top 1%)  
 - Codeforces Specialist  
 - CodeChef 3-Star  
-
----
-
-Turning complex problems into elegant, deployable systems.
